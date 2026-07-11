@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/princesolet581/leet_code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/princesolet581/leet_code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/princesolet581/leet_code/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/princesolet581/leet_code/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/princesolet581/leet_code/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -96,4 +98,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/princesolet581/leet_code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
