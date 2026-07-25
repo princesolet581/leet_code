@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/princesolet581/leet_code/tree/master/0008-string-to-integer-atoi) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/princesolet581/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/princesolet581/leet_code/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
 ## Math
@@ -103,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/princesolet581/leet_code/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/princesolet581/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/princesolet581/leet_code/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
